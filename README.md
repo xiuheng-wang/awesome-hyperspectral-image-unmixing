@@ -13,8 +13,8 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 - [Toolbox](#toolbox)
 
 <a name="model" />
-## Physics-based mixture model
 
+## Physics-based mixture model
 1. **Nonlinear unmixing of hyperspectral images: Models and algorithms.** *SPM2013*, N. Dobigeon et al.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6678284)] 
 1. **A review of nonlinear hyperspectral unmixing methods.** *JSTAR2014*, R. Heylen et al.
