@@ -11,3 +11,9 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
   - [Integrating loss learnt from data into physics-based inverse problems](#loss)
 - [Databases](#data)
 - [Toolbox](#toolbox)
+
+<a name="model" />
+## Nonlinear unmixing of hyperspectral images: Models and algorithms. SPM2013, N. Dobigeon et al.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6678284)] 
+## A review of nonlinear hyperspectral unmixing methods. JSTAR, R. Heylen et al.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6816071)] 
