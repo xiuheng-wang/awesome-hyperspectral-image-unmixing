@@ -1,5 +1,6 @@
 ## Awesome resources on Hyperspectral Image Unmixing
 A list of hyperspectral image unmixing resources collected by Xiuheng Wang and Min Zhao. **For more details, please refer to our paper: Integration of Physics-Based and Data-Driven Models for Hyperspectral Image Unmixing.** [[Paper](https://arxiv.org/)] [[Bibtex](https://bibbase.org/network/publication/chen-zhao-wang-richard-rahardja-integrationofphysicsbasedanddatadrivenmodelsforhyperspectralimageunmixing-2022)]
+**If you find that important resources are not included, please feel free to contact us.**
 
 ## Contents
 
@@ -56,7 +57,30 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 [[Paper]()] [[Code](https://github.com/burknipalsson/hu_autoencoders/blob/main/Method_CNNAEU.ipynb)]
 6. **Hyperspectral unmixing using deep convolutional autoencoders in a supervised scenario.** JSTARS 2020, *F. Khajehrayeni et al*.
 [[Paper]()] [[Code]()]
-7. 
+7. **Nonlinear unmixing of hyperspectral data via deep autoencoder network.** GRSL 2019, *M. Wang et al*.
+[[Paper]()] [[Code](https://github.com/zhaomin0101/NAE)]
+8. **LSTM-DNN based autoencoder network for nonlinear hyperspectral image unmixing.** JSTSP 2021, *M. Zhao et al*.
+[[Paper]()] [[Code]()]
+9. **Hyperspectral unmixing for additive nonlinear models with a 3-D-CNN autoencoder network.** TGRS 2022, *M. Zhao et al*.
+[[Paper]()] [[Code](https://github.com/zhaomin0101/3DCNN-var)]
+10. **Deep autoencoders with multitask learning for bilinear hyperspectral unmixing.** TGRS 2020, *Y. Su et al*.
+[[Paper]()] [[Code]()]
+11. **Unsupervised hyperspectral unmixing via nonlinear autoencoders.** TGRS 2021, *K. T. Shahid et al*.
+[[Paper]()] [[Code]()]
+12. **TANet: An unsupervised two-stream autoencoder network for hyperspectral unmixing.** TGRS 2021, *Q. Jin et al*.
+[[Paper]()] [[Code](https://github.com/meixiaoguang/TANet)]
+13. **Probabilistic generative model for hyperspectral unmixing accounting for endmember variability.**  TGRS 2022, *S. Shi et al*.
+[[Paper]()] [[Code](https://github.com/shuaikaishi/PGMSU)]
+14. **Deep generative endmember modeling: An application to unsupervised spectral unmixing.** TCI 2019, *R. Borsoi et al*.
+[[Paper]()] [[Code](https://github.com/ricardoborsoi/Unmixing\_with\_Deep\_Generative\_Models)]
+15. **Deep half-siamese networks for hyperspectral unmixing.** GRSL 2020, *Z. Han et al*.
+[[Paper]()] [[Code]()]
+16. **Dual branch autoencoder network for spectral-spatial hyperspectral unmixing.** GRSL 2021, *Z. Hua et al*.
+[[Paper]()] [[Code]()]
+17. **Cycu-net: Cycle-consistency unmixing network by learning cascaded autoencoders.** TGRS 2021, *L. Gao et al*.
+[[Paper]()] [[Code](https://github.com/hanzhu97702/IEEE\_TGRS\_CyCU-Net)]
+18. **UnDIP: Hyperspectral unmixing using deep image prior.** TGRS 2021, *B. Rasti et al*. 
+[[Paper]()] [[Code](https://github.com/BehnoodRasti/UnDIP)]
 
 ### Deep neural network design inspired by the physical model-based iterative optimization
 1. **A plug-and-play priors framework for hyperspectral unmixing.** TGRS 2021, *M. Zhao et al*.
@@ -68,4 +92,10 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 4. **An ADMM based network for hyperspectral unmixing tasks.** ICASSP 2021, *C. Zhou et al*.
 [[Paper]()] [[Code]()]
 5. **SNMF-Net: Learning a deep alternating neural network for hyperspectral unmixing.** TGRS 2021, *F. Xiong et al*.
-[[Paper]()] [[Code](http://www.xiongfuli.com/cv/\#projects)]
+[[Paper]()] [[Code](http://www.xiongfuli.com/cv/code/SNMF.zip)]
+
+### Integrating loss learnt from data into physics-based inverse problems
+1. **JMnet: Joint metric neural network for hyperspectral unmixing.** TGRS 2021, *A. Min et al*.
+[[Paper]()] [[Code]()]
+2. **Adversarial autoencoder network for hyperspectral unmixing.** TNNLS 2021, *Q. Jin et al*.
+[[Paper]()] [[Code](https://github.com/meixiaoguang/AAENet)]
