@@ -84,10 +84,10 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 <a name="iterative" />
 
 ### Deep neural network design inspired by the physical model-based iterative optimization
-1. **A plug-and-play priors framework for hyperspectral unmixing.** TGRS 2021, *M. Zhao et al*. :fire:
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9325040)] [[Code](https://github.com/xiuheng-wang/Plug_and_Play_HSI_unmixing)]
-2. **Hyperspectral unmixing via nonnegative matrix factorization with handcrafted and learned priors.** GRSL 2021, *M. Zhao et al*. :fire:
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9321154)] 
+1. **A plug-and-play priors framework for hyperspectral unmixing.** TGRS 2021, *M. Zhao et al*.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9325040)] [[Code](https://github.com/xiuheng-wang/Plug_and_Play_HSI_unmixing)] :fire:
+2. **Hyperspectral unmixing via nonnegative matrix factorization with handcrafted and learned priors.** GRSL 2021, *M. Zhao et al*.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9321154)] :fire:
 3. **Hyperspectral nonlinear unmixing by using plug-and-play prior for abundance maps** RS 2020, *Z. Wang et al*.
 [[Paper](https://www.mdpi.com/2072-4292/12/24/4117)] 
 4. **An ADMM based network for hyperspectral unmixing tasks.** ICASSP 2021, *C. Zhou et al*.
