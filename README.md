@@ -21,9 +21,9 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 <a name="survey" />
 
 ### Survey
-1. **Nonlinear unmixing of hyperspectral images: Models and algorithms.** SPM2013, *N. Dobigeon et al*.
+1. **Nonlinear unmixing of hyperspectral images: Models and algorithms.** SPM 2013, *N. Dobigeon et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6678284)] 
-2. **A review of nonlinear hyperspectral unmixing methods.** JSTAR2014, *R. Heylen et al*.
+2. **A review of nonlinear hyperspectral unmixing methods.** JSTARS 2014, *R. Heylen et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6816071)] 
 
 
@@ -44,16 +44,28 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 <a name="network" />
 
 ### Integrating of physics-based models in deep neural network design.
-1. **EndNet: Sparse autoencoder network for endmember extraction and hyperspectral unmixing.** TGRS2018, *S. Ozkan et al*.
+1. **EndNet: Sparse autoencoder network for endmember extraction and hyperspectral unmixing.** TGRS 2018, *S. Ozkan et al*.
 [[Paper]()] [[code](https://github.com/savasozkan/endnet)]
-2. **uDAS: An untied denoising autoencoder with sparsity for spectral unmixing.** TGRS2018, *Y. Qu et al*.
+2. **uDAS: An untied denoising autoencoder with sparsity for spectral unmixing.** TGRS 2018, *Y. Qu et al*.
 [[Paper]()] [[code](https://github.com/aicip/uDAS)]
-3. **DAEN: Deep autoencoder networks for hyperspectral unmixing.** TGRS2019, *Y. Su et al*.
+3. **DAEN: Deep autoencoder networks for hyperspectral unmixing.** TGRS 2019, *Y. Su et al*.
 [[Paper]()] [[code]()]
-4. **Hyperspectral unmixing using a neural network autoencoder.** IEEE Access, *B. Palsson et al*.
+4. **Hyperspectral unmixing using a neural network autoencoder.** IEEE Access 2018, *B. Palsson et al*.
 [[Paper]()] [[code](https://github.com/burknipalsson/hu_autoencoders/blob/main/Method_DAEU.ipynb)]
-5. **Convolutional autoencoder for spectral–spatial hyperspectral unmixing.** TGRS2020, *B. Palsson et al*.
+5. **Convolutional autoencoder for spectral–spatial hyperspectral unmixing.** TGRS 2020, *B. Palsson et al*.
 [[Paper]()] [[code](https://github.com/burknipalsson/hu_autoencoders/blob/main/Method_CNNAEU.ipynb)]
-6. **Hyperspectral unmixing using deep convolutional autoencoders in a supervised scenario.** JSTARS2020, *F. Khajehrayeni et al*.
+6. **Hyperspectral unmixing using deep convolutional autoencoders in a supervised scenario.** JSTARS 2020, *F. Khajehrayeni et al*.
 [[Paper]()] [[code]()]
 7. 
+
+### Deep neural network design inspired by the physical model-based iterative optimization
+1. **A plug-and-play priors framework for hyperspectral unmixing.** TGRS 2021, *M. Zhao et al*.
+[[Paper]()] [[code]()]
+2. **Hyperspectral unmixing via nonnegative matrix factorization with handcrafted and learned priors.** GRSL 2021, *M. Zhao et al*.
+[[Paper]()] [[code]()]
+3. **Hyperspectral nonlinear unmixing by using plug-and-play prior for abundance maps** RS 2020, *Z. Wang et al*.
+[[Paper]()] [[code]()]
+4. **An ADMM based network for hyperspectral unmixing tasks.** ICASSP 2021, *C. Zhou et al*.
+[[Paper]()] [[code]()]
+5. **SNMF-Net: Learning a deep alternating neural network for hyperspectral unmixing.** TGRS 2021, *F. Xiong et al*.
+[[Paper]()] [[code]()]
