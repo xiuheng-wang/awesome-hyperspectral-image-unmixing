@@ -56,11 +56,11 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8900297)] [[Code](https://github.com/burknipalsson/hu_autoencoders/blob/main/Method_CNNAEU.ipynb)]
 6. **Hyperspectral unmixing using deep convolutional autoencoders in a supervised scenario.** JSTARS 2020, *F. Khajehrayeni et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8984691)] 
-7. **Nonlinear unmixing of hyperspectral data via deep autoencoder network.** GRSL 2019, *M. Wang et al*.
+7. :fire: **Nonlinear unmixing of hyperspectral data via deep autoencoder network.** GRSL 2019, *M. Wang et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667664)] [[Code](https://github.com/zhaomin0101/NAE)]
-8. **LSTM-DNN based autoencoder network for nonlinear hyperspectral image unmixing.** JSTSP 2021, *M. Zhao et al*.
+8. :fire: **LSTM-DNN based autoencoder network for nonlinear hyperspectral image unmixing.** JSTSP 2021, *M. Zhao et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9326377)] 
-9. **Hyperspectral unmixing for additive nonlinear models with a 3-D-CNN autoencoder network.** TGRS 2022, *M. Zhao et al*.
+9. :fire: **Hyperspectral unmixing for additive nonlinear models with a 3-D-CNN autoencoder network.** TGRS 2022, *M. Zhao et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9503107)] [[Code](https://github.com/zhaomin0101/3DCNN-var)]
 10. **Deep autoencoders with multitask learning for bilinear hyperspectral unmixing.** TGRS 2020, *Y. Su et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9290391)] 
@@ -68,7 +68,7 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9432042)] 
 12. **TANet: An unsupervised two-stream autoencoder network for hyperspectral unmixing.** TGRS 2021, *Q. Jin et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9489359)] [[Code](https://github.com/meixiaoguang/TANet)]
-13. **Probabilistic generative model for hyperspectral unmixing accounting for endmember variability.**  TGRS 2022, *S. Shi et al*.
+13. :fire: **Probabilistic generative model for hyperspectral unmixing accounting for endmember variability.**  TGRS 2022, *S. Shi et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9583297)] [[Code](https://github.com/shuaikaishi/PGMSU)]
 14. **Deep generative endmember modeling: An application to unsupervised spectral unmixing.** TCI 2019, *R. Borsoi et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8878112)] [[Code](https://github.com/ricardoborsoi/Unmixing_with_Deep_Generative_Models)]
@@ -86,7 +86,7 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 ### Deep neural network design inspired by the physical model-based iterative optimization
 1. :fire: **A plug-and-play priors framework for hyperspectral unmixing.** TGRS 2021, *M. Zhao et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9325040)] [[Code](https://github.com/xiuheng-wang/Plug_and_Play_HSI_unmixing)]
-2. **Hyperspectral unmixing via nonnegative matrix factorization with handcrafted and learned priors.** GRSL 2021, *M. Zhao et al*.
+2. :fire: **Hyperspectral unmixing via nonnegative matrix factorization with handcrafted and learned priors.** GRSL 2021, *M. Zhao et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9321154)] 
 3. **Hyperspectral nonlinear unmixing by using plug-and-play prior for abundance maps** RS 2020, *Z. Wang et al*.
 [[Paper](https://www.mdpi.com/2072-4292/12/24/4117)] 
