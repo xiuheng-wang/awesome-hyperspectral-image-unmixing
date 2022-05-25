@@ -56,8 +56,8 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8900297)] [[Code](https://github.com/burknipalsson/hu_autoencoders/blob/main/Method_CNNAEU.ipynb)]
 6. **Hyperspectral unmixing using deep convolutional autoencoders in a supervised scenario.** JSTARS 2020, *F. Khajehrayeni et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8984691)] 
-7. **Nonlinear unmixing of hyperspectral data via deep autoencoder network.** GRSL 2019, *M. Wang et al*. :fire:
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667664)] [[Code](https://github.com/zhaomin0101/NAE)]
+7. **Nonlinear unmixing of hyperspectral data via deep autoencoder network.** GRSL 2019, *M. Wang et al*.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667664)] [[Code](https://github.com/zhaomin0101/NAE)] :fire:
 8. **LSTM-DNN based autoencoder network for nonlinear hyperspectral image unmixing.** JSTSP 2021, *M. Zhao et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9326377)] :fire:
 9. **Hyperspectral unmixing for additive nonlinear models with a 3-D-CNN autoencoder network.** TGRS 2022, *M. Zhao et al*.
