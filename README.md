@@ -72,19 +72,19 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 13. **Probabilistic generative model for hyperspectral unmixing accounting for endmember variability.**  TGRS 2022, *S. Shi et al*.
 [[Paper]()] [[Code](https://github.com/shuaikaishi/PGMSU)]
 14. **Deep generative endmember modeling: An application to unsupervised spectral unmixing.** TCI 2019, *R. Borsoi et al*.
-[[Paper]()] [[Code](https://github.com/ricardoborsoi/Unmixing\_with\_Deep\_Generative\_Models)]
+[[Paper]()] [[Code](https://github.com/ricardoborsoi/Unmixing_with_Deep_Generative_Models)]
 15. **Deep half-siamese networks for hyperspectral unmixing.** GRSL 2020, *Z. Han et al*.
 [[Paper]()] [[Code]()]
 16. **Dual branch autoencoder network for spectral-spatial hyperspectral unmixing.** GRSL 2021, *Z. Hua et al*.
 [[Paper]()] [[Code]()]
 17. **Cycu-net: Cycle-consistency unmixing network by learning cascaded autoencoders.** TGRS 2021, *L. Gao et al*.
-[[Paper]()] [[Code](https://github.com/hanzhu97702/IEEE\_TGRS\_CyCU-Net)]
+[[Paper]()] [[Code](https://github.com/hanzhu97702/IEEE_TGRS_CyCU-Net)]
 18. **UnDIP: Hyperspectral unmixing using deep image prior.** TGRS 2021, *B. Rasti et al*. 
 [[Paper]()] [[Code](https://github.com/BehnoodRasti/UnDIP)]
 
 ### Deep neural network design inspired by the physical model-based iterative optimization
 1. **A plug-and-play priors framework for hyperspectral unmixing.** TGRS 2021, *M. Zhao et al*.
-[[Paper]()] [[Code](https://github.com/xiuheng-wang/Plug\_and\_Play\_HSI\_unmixing)]
+[[Paper]()] [[Code](https://github.com/xiuheng-wang/Plug_and_Play_HSI_unmixing)]
 2. **Hyperspectral unmixing via nonnegative matrix factorization with handcrafted and learned priors.** GRSL 2021, *M. Zhao et al*.
 [[Paper]()] [[Code]()]
 3. **Hyperspectral nonlinear unmixing by using plug-and-play prior for abundance maps** RS 2020, *Z. Wang et al*.
