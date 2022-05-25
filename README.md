@@ -1,6 +1,5 @@
 ## Awesome resources on Hyperspectral Image Unmixing
-A list of hyperspectral image unmixing resources collected by Xiuheng Wang and Min Zhao. **For more details, please refer to our paper: Integration of Physics-Based and Data-Driven Models for Hyperspectral Image Unmixing.** [[Paper](https://arxiv.org/)] [[Bibtex](https://bibbase.org/network/publication/chen-zhao-wang-richard-rahardja-integrationofphysicsbasedanddatadrivenmodelsforhyperspectralimageunmixing-2022)]
-**If you find that important resources are not included, please feel free to contact us.**
+A list of hyperspectral image unmixing resources collected by Xiuheng Wang and Min Zhao. **For more details, please refer to our paper: Integration of Physics-Based and Data-Driven Models for Hyperspectral Image Unmixing.** [[Paper](https://arxiv.org/)] [[Bibtex](https://bibbase.org/network/publication/chen-zhao-wang-richard-rahardja-integrationofphysicsbasedanddatadrivenmodelsforhyperspectralimageunmixing-2022)]. If you find that important resources are not included, please feel free to contact us.
 
 ## Contents
 
@@ -85,7 +84,7 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 <a name="iterative" />
 
 ### Deep neural network design inspired by the physical model-based iterative optimization
-1. <font color=red>Our work</font> **A plug-and-play priors framework for hyperspectral unmixing.** TGRS 2021, *M. Zhao et al*.
+1. <font color=red>[Our work]]</font> **A plug-and-play priors framework for hyperspectral unmixing.** TGRS 2021, *M. Zhao et al*.
 [[Paper]()] [[Code](https://github.com/xiuheng-wang/Plug_and_Play_HSI_unmixing)]
 2. **Hyperspectral unmixing via nonnegative matrix factorization with handcrafted and learned priors.** GRSL 2021, *M. Zhao et al*.
 [[Paper]()] [[Code]()]
