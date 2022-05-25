@@ -82,6 +82,8 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 18. **UnDIP: Hyperspectral unmixing using deep image prior.** TGRS 2021, *B. Rasti et al*. 
 [[Paper]()] [[Code](https://github.com/BehnoodRasti/UnDIP)]
 
+<a name="iterative" />
+
 ### Deep neural network design inspired by the physical model-based iterative optimization
 1. **A plug-and-play priors framework for hyperspectral unmixing.** TGRS 2021, *M. Zhao et al*.
 [[Paper]()] [[Code](https://github.com/xiuheng-wang/Plug_and_Play_HSI_unmixing)]
@@ -93,6 +95,9 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 [[Paper]()] [[Code]()]
 5. **SNMF-Net: Learning a deep alternating neural network for hyperspectral unmixing.** TGRS 2021, *F. Xiong et al*.
 [[Paper]()] [[Code](http://www.xiongfuli.com/cv/code/SNMF.zip)]
+
+
+<a name="loss" />
 
 ### Integrating loss learnt from data into physics-based inverse problems
 1. **JMnet: Joint metric neural network for hyperspectral unmixing.** TGRS 2021, *A. Min et al*.
