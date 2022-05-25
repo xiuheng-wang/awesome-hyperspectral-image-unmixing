@@ -108,6 +108,9 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 
 ## Databases
 
+1. **A laboratory-created dataset with ground truth for hyperspectral unmixing evaluation.** JSTARS 2019, *M. Zhao et al*.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8681610)] [[Data](http://www.jie-chen.com/index.php?nfssp=Data)] :fire:
+
 <a name="toolbox" />
 
 ## Toolbox
