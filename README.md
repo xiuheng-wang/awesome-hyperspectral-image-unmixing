@@ -25,6 +25,8 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6678284)] 
 2. **A review of nonlinear hyperspectral unmixing methods.** JSTARS 2014, *R. Heylen et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6816071)] 
+3. **Spectral variability in hyperspectral data unmixing: A comprehensive review.** GRSM 2021, *R. Borsoi et al*.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9439249)] [[Code](https://github.com/ricardoborsoi/unmixing_spectral_variability)] :fire:
 
 
 <a name="examples" />
