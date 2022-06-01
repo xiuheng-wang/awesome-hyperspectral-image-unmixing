@@ -1,5 +1,5 @@
 ## Awesome resources on Hyperspectral Image Unmixing
-A list of hyperspectral image unmixing resources collected by Xiuheng Wang and Min Zhao. **For more details, please refer to our paper: Integration of Physics-Based and Data-Driven Models for Hyperspectral Image Unmixing.** [[Paper](https://arxiv.org/)] [[Bibtex](https://bibbase.org/network/publication/chen-zhao-wang-richard-rahardja-integrationofphysicsbasedanddatadrivenmodelsforhyperspectralimageunmixing-2022)]. If you find that important resources are not included, please feel free to contact us.
+A list of hyperspectral image unmixing resources collected by Xiuheng Wang and Min Zhao. **For more details, please refer to our paper: Integration of Physics-Based and Data-Driven Models for Hyperspectral Image Unmixing.** [[Paper](https://arxiv.org/)] [[Bibtex](https://bibbase.org/network/publication/chen-zhao-wang-richard-rahardja-integrationofphysicsbasedanddatadrivenmodelsforhyperspectralimageunmixing-2022)]. If you find any important resources are not included, please feel free to contact us.
 
 ## Contents
 
@@ -30,7 +30,7 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 <a name="examples" />
 
 ### Examples
-1. **Nonlinear unmixing of hyperspectral images using a generalized bilinear model.”** TGRS 2011, *A. Halimi et al*.
+1. **Nonlinear unmixing of hyperspectral images using a generalized bilinear model.** TGRS 2011, *A. Halimi et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5702384)]
 2. **Theory of reflectance and emittance spectroscopy.** Cambridge university press 2012, *B. Hapke*. 
 [[Paper](https://www.cambridge.org/core/books/theory-of-reflectance-and-emittance-spectroscopy/C266E1164D5E14DA18141F03D0E0EAB0)]
