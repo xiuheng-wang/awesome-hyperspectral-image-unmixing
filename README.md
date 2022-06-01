@@ -30,7 +30,10 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 <a name="examples" />
 
 ### Examples
-1. 
+1. **Nonlinear unmixing of hyperspectral images using a generalized bilinear model.”** TGRS 2011, *A. Halimi et al*.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5702384)]
+2. **Theory of reflectance and emittance spectroscopy.** Cambridge university press 2012, *B. Hapke*. 
+[[Paper](https://www.cambridge.org/core/books/theory-of-reflectance-and-emittance-spectroscopy/C266E1164D5E14DA18141F03D0E0EAB0)]
 
 
 <a name="problem" />
