@@ -42,12 +42,19 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 ## Conventional unmixing methods
 
 1. **Fully constrained least squares spectral unmixing by simplex projection.** TGRS 2011, *R. Heylen et al*.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5887410)] [[Code](https://sites.google.com/site/robheylenresearch/code/simplex_project.m?attredirects=0&d=1)]
 2. **Endmember extraction from highly mixed data using minimum volume constrained nonnegative matrix factorization.** TGRS 2007, *L Miao et al*.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4106058)]
 3. **Low-rank and sparse representation for hyperspectral image processing: A review.** GRSM 2021, *J Peng et al*.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9451654)]
 4. **Nonlinear estimation of material abundances in hyperspectral images with ℓ1-norm spatial regularization.** TGRS 2013, *J. Chen et al*.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6531654)]  :fire:
 5. **Kernel-based nonlinear spectral unmixing with dictionary pruning.** RS 2019, *Z. Li et al*.
+[[Paper](https://www.mdpi.com/2072-4292/11/5/529/pdf?version=1551778872)]  :fire:
 6. **Non-linear spectral unmixing by geodesic simplex volume maximization.** JSTSP 2010, *R. Heylen et al*.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5605217)]
 7. **A distance geometric framework for nonlinear hyperspectral unmixing.** JSTARS 2014, *R. Heylen et al*.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6814294)] [[Code](https://sites.google.com/site/robheylenresearch/code/simplex_project_dist.m?attredirects=0&d=1)]
 
 <a name="network" />
 
