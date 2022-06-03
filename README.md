@@ -6,7 +6,7 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 - [Physics-based mixture model](#model)
   - [Survey](#survey)
   - [Examples](#examples)
-- [Conventional unmixing methods](#conventional)
+- [Classic unmixing methods](#classic)
 - [Integrating of physics-based models in DNN design](#network)
 - [DNN design inspired by the physical model-based iterative optimization](#iterative)
 - [Integrating loss learnt from data into physics-based inverse problems](#loss)
@@ -37,9 +37,9 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 [[Paper](https://www.cambridge.org/core/books/theory-of-reflectance-and-emittance-spectroscopy/C266E1164D5E14DA18141F03D0E0EAB0)]
 
 
-<a name="conventional" />
+<a name="classic" />
 
-## Conventional unmixing methods
+## Classic unmixing methods
 1. **Fully Constrained Least Squares Linear Spectral Mixture Analysis Method for Material Quantification in Hyperspectral Imagery.** TGRS 2001, *D. C. Heinz et al*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=911111)]
 2. **Endmember extraction from highly mixed data using minimum volume constrained nonnegative matrix factorization.** TGRS 2007, *L Miao et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4106058)]
