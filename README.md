@@ -40,7 +40,7 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 <a name="conventional" />
 
 ## Conventional unmixing methods
-
+1. **Fully Constrained Least Squares Linear Spectral Mixture Analysis Method for Material Quantification in Hyperspectral Imagery.** TGRS 2001, *D. C. Heinz et al*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=911111)]
 2. **Endmember extraction from highly mixed data using minimum volume constrained nonnegative matrix factorization.** TGRS 2007, *L Miao et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4106058)]
 3. **Low-rank and sparse representation for hyperspectral image processing: A review.** GRSM 2021, *J Peng et al*.
