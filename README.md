@@ -6,11 +6,10 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 - [Physics-based mixture model](#model)
   - [Survey](#survey)
   - [Examples](#examples)
-- [A general formulation of the unmixing problem](#problem)
-- [Joint physics-based and data-driven unmixing methods with recent machine learning methods](#deeplearning)
-  - [Integrating of physics-based models in deep neural network design](#network)
-  - [Deep neural network design inspired by the physical model-based iterative optimization](#iterative)
-  - [Integrating loss learnt from data into physics-based inverse problems](#loss)
+- [Conventional unmixing methods](#conventional)
+- [Integrating of physics-based models in DNN design](#network)
+- [DNN design inspired by the physical model-based iterative optimization](#iterative)
+- [Integrating loss learnt from data into physics-based inverse problems](#loss)
 - [Databases](#data)
 - [Toolbox](#toolbox)
 
@@ -38,17 +37,13 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 [[Paper](https://www.cambridge.org/core/books/theory-of-reflectance-and-emittance-spectroscopy/C266E1164D5E14DA18141F03D0E0EAB0)]
 
 
-<a name="problem" />
+<a name="conventional" />
 
-## A general formulation of the unmixing problem
-
-<a name="deeplearning" />
-
-## Joint physics-based and data-driven unmixing methods with recent machine learning methods
+## Conventional unmixing methods
 
 <a name="network" />
 
-### Integrating of physics-based models in deep neural network design.
+## Integrating of physics-based models in DNN design.
 1. **EndNet: Sparse autoencoder network for endmember extraction and hyperspectral unmixing.** TGRS 2018, *S. Ozkan et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8429926)] [[Code](https://github.com/savasozkan/endnet)]
 2. **uDAS: An untied denoising autoencoder with sparsity for spectral unmixing.** TGRS 2018, *Y. Qu et al*.
@@ -88,7 +83,7 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 
 <a name="iterative" />
 
-### Deep neural network design inspired by the physical model-based iterative optimization
+## DNN design inspired by the physical model-based iterative optimization
 1. **A plug-and-play priors framework for hyperspectral unmixing.** TGRS 2021, *M. Zhao et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9325040)] [[Code](https://github.com/xiuheng-wang/Plug_and_Play_HSI_unmixing)] :fire:
 2. **Hyperspectral unmixing via nonnegative matrix factorization with handcrafted and learned priors.** GRSL 2021, *M. Zhao et al*.
@@ -103,7 +98,7 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 
 <a name="loss" />
 
-### Integrating loss learnt from data into physics-based inverse problems
+## Integrating loss learnt from data into physics-based inverse problems
 1. **JMnet: Joint metric neural network for hyperspectral unmixing.** TGRS 2021, *A. Min et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9404359)] 
 2. **Adversarial autoencoder network for hyperspectral unmixing.** TNNLS 2021, *Q. Jin et al*.
