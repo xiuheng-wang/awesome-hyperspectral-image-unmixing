@@ -41,6 +41,14 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 
 ## Conventional unmixing methods
 
+1. **Fully constrained least squares spectral unmixing by simplex projection.** TGRS 2011, *R. Heylen et al*.
+2. **Endmember extraction from highly mixed data using minimum volume constrained nonnegative matrix factorization.** TGRS 2007, *L Miao et al*.
+3. **Low-rank and sparse representation for hyperspectral image processing: A review.** GRSM 2021, *J Peng et al*.
+4. **Nonlinear estimation of material abundances in hyperspectral images with ℓ1-norm spatial regularization.** TGRS 2013, *J. Chen et al*.
+5. **Kernel-based nonlinear spectral unmixing with dictionary pruning.** RS 2019, *Z. Li et al*.
+6. **Non-linear spectral unmixing by geodesic simplex volume maximization.** JSTSP 2010, *R. Heylen et al*.
+7. **A distance geometric framework for nonlinear hyperspectral unmixing.** JSTARS 2014, *R. Heylen et al*.
+
 <a name="network" />
 
 ## Integrating of physics-based models in DNN design.
