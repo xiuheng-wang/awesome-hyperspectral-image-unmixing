@@ -80,7 +80,7 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 10. **Deep autoencoders with multitask learning for bilinear hyperspectral unmixing.** TGRS 2020, *Y. Su et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9290391)] 
 11. **Unsupervised hyperspectral unmixing via nonlinear autoencoders.** TGRS 2021, *K. T. Shahid et al*.
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9432042)] 
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9432042)] [[Code](https://github.com/KaziTShahid/Nonlinear-Hyperspectral-Unmixing-Autoencoder)]
 12. **TANet: An unsupervised two-stream autoencoder network for hyperspectral unmixing.** TGRS 2021, *Q. Jin et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9489359)] [[Code](https://github.com/meixiaoguang/TANet)]
 13. **Probabilistic generative model for hyperspectral unmixing accounting for endmember variability.**  TGRS 2022, *S. Shi et al*.
