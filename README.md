@@ -8,7 +8,7 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
   - [Examples](#examples)
 - [Classic unmixing methods](#classic)
 - [Integrating of physics-based models in DNN design](#network)
-- [Prior information learning with data-driven approaches](#iterative)
+- [DNN design inspired by the physical model-based iterative optimization](#iterative)
 - [Integrating loss learnt from data into physics-based inverse problems](#loss)
 - [Databases](#data)
 - [Toolbox](#toolbox)
@@ -98,7 +98,7 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 
 <a name="iterative" />
 
-## Prior information learning with data-driven approaches
+## DNN design inspired by the physical model-based iterative optimization
 1. **A plug-and-play priors framework for hyperspectral unmixing.** TGRS 2021, *M. Zhao et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9325040)] [[Code](https://github.com/xiuheng-wang/Plug_and_Play_HSI_unmixing)] :fire:
 2. **Hyperspectral unmixing via nonnegative matrix factorization with handcrafted and learned priors.** GRSL 2021, *M. Zhao et al*.
