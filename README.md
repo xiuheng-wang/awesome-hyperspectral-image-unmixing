@@ -46,7 +46,7 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 3. **Low-rank and sparse representation for hyperspectral image processing: A review.** GRSM 2021, *J Peng et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9451654)]
 4. **Nonlinear estimation of material abundances in hyperspectral images with ℓ1-norm spatial regularization.** TGRS 2013, *J. Chen et al*.
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6531654)]  :fire:
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6531654)] [[Code](http://www.jie-chen.com/index.php?nfssp=Reproducible)] :fire:
 5. **Kernel-based nonlinear spectral unmixing with dictionary pruning.** RS 2019, *Z. Li et al*.
 [[Paper](https://www.mdpi.com/2072-4292/11/5/529/pdf?version=1551778872)]  :fire:
 6. **Non-linear spectral unmixing by geodesic simplex volume maximization.** JSTSP 2010, *R. Heylen et al*.
