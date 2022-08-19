@@ -20,11 +20,13 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 <a name="survey" />
 
 ### Survey
-1. **Nonlinear unmixing of hyperspectral images: Models and algorithms.** SPM 2013, *N. Dobigeon et al*.
+1. **Advances in hyperspectral image and signal processing: A comprehensive overview of the state of the art.** GRSM 2017, *P. Ghamisi et al*.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8113122)]
+2. **Nonlinear unmixing of hyperspectral images: Models and algorithms.** SPM 2013, *N. Dobigeon et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6678284)] 
-2. **A review of nonlinear hyperspectral unmixing methods.** JSTARS 2014, *R. Heylen et al*.
+3. **A review of nonlinear hyperspectral unmixing methods.** JSTARS 2014, *R. Heylen et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6816071)] 
-3. **Spectral variability in hyperspectral data unmixing: A comprehensive review.** GRSM 2021, *R. Borsoi et al*.
+4. **Spectral variability in hyperspectral data unmixing: A comprehensive review.** GRSM 2021, *R. Borsoi et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9439249)] [[Code](https://github.com/ricardoborsoi/unmixing_spectral_variability)] :fire:
 
 
@@ -95,6 +97,10 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9383423)] [[Code](https://github.com/hanzhu97702/IEEE_TGRS_CyCU-Net)]
 18. **UnDIP: Hyperspectral unmixing using deep image prior.** TGRS 2021, *B. Rasti et al*. 
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9392110)] [[Code](https://github.com/BehnoodRasti/UnDIP)]
+19. **SSCU-Net: Spatial–spectral collaborative unmixing network for hyperspectral images.** TGRS 2022, *L. Qi et al*. 
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9709843)]
+20. **Multimodal hyperspectral unmixing: Insights from attention networks.** TGRS 2022, *Z. Han et al*. 
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9724217)] [[Code](https://github.com/hanzhu97702/IEEE_TGRS_MUNet)]
 
 <a name="iterative" />
 
@@ -129,3 +135,6 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang and M
 <a name="toolbox" />
 
 ## Toolbox
+
+1. **Blind hyperspectral unmixing using autoencoders: A critical comparison.** JSTARS 2022, *B. Palsson et al*.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9672688)] [[Code](https://github.com/burknipalsson/hu_autoencoders)]
