@@ -2,10 +2,11 @@
 A list of hyperspectral image unmixing resources collected by Xiuheng Wang (xiuheng.wang@oca.eu) and Min Zhao (minzhao@mail.nwpu.edu.cn). **For more details, please refer to our paper: Integration of Physics-Based and Data-Driven Models for Hyperspectral Image Unmixing.** [[Paper](https://arxiv.org/pdf/2206.05508.pdf)]. If you find any important resources are not included, please feel free to contact us.
 
     @article{chen2022integration,
-      title={Integration of Physics-Based and Data-Driven Models for Hyperspectral Image Unmixing},
-      author={Chen, Jie and Zhao, Min and Wang, Xiuheng and Richard, C{\'e}dric and Rahardja, Susanto},
-      journal={arXiv preprint arXiv:2206.05508},
-      year={2022}
+      title={Integration of physics-based and data-driven models for hyperspectral image unmixing},
+      author={Chen, Jie and Zhao, Min and Wang, Xiuheng and Richard, Cédric and Rahardja, Susanto},
+      journal={IEEE Signal Processing Magazine},
+      year={2022},
+      publisher={IEEE}
     }
 
 ## Contents
