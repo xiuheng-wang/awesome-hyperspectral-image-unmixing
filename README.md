@@ -5,7 +5,7 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang (xiuh
       title={Integration of physics-based and data-driven models for hyperspectral image unmixing},
       author={Chen, Jie and Zhao, Min and Wang, Xiuheng and Richard, Cédric and Rahardja, Susanto},
       journal={IEEE Signal Processing Magazine},
-      year={2022},
+      year={2023},
       publisher={IEEE}
     }
 
