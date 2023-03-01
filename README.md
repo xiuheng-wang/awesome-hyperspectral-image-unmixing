@@ -1,5 +1,5 @@
 ## Awesome resources on Hyperspectral Image Unmixing
-A list of hyperspectral image unmixing resources collected by Xiuheng Wang (xiuheng.wang@oca.eu) and Min Zhao (minzhao@mail.nwpu.edu.cn). **For more details, please refer to our paper: Integration of Physics-Based and Data-Driven Models for Hyperspectral Image Unmixing.** [[Paper](https://ieeexplore.ieee.org/document/10054209)]. If you find any important resources are not included, please feel free to contact us.
+A list of hyperspectral image unmixing resources collected by Xiuheng Wang (xiuheng.wang@oca.eu) and Min Zhao (minzhao@mail.nwpu.edu.cn). **For more details, please refer to our paper: Integration of Physics-Based and Data-Driven Models for Hyperspectral Image Unmixing: A summary of current methods.** [[Paper](https://ieeexplore.ieee.org/document/10054209)]. If you find any important resources are not included, please feel free to contact us.
 
     @article{chen2022integration,
       title={Integration of Physics-Based and Data-Driven Models for Hyperspectral Image Unmixing: A summary of current methods}, 
