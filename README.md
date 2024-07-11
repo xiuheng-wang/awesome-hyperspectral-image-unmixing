@@ -73,7 +73,7 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang (xiuh
 
 ## Integrating of physics-based models in DNN design.
 1. **EndNet: Sparse autoencoder network for endmember extraction and hyperspectral unmixing.** TGRS 2018, *S. Ozkan et al*.
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8429926)] [[Code](https://github.com/savasozkan/endnet)]
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8429926)] [[Result](https://github.com/savasozkan/endnet)]
 2. **uDAS: An untied denoising autoencoder with sparsity for spectral unmixing.** TGRS 2018, *Y. Qu et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8476591)] [[Code](https://github.com/aicip/uDAS)]
 3. **DAEN: Deep autoencoder networks for hyperspectral unmixing.** TGRS 2019, *Y. Su et al*.
