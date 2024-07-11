@@ -65,9 +65,9 @@ A list of hyperspectral image unmixing resources collected by Xiuheng Wang (xiuh
 6. **Non-linear spectral unmixing by geodesic simplex volume maximization.** JSTSP 2010, *R. Heylen et al*.
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5605217)]
 7. **Fully constrained least squares spectral unmixing by simplex projection.** TGRS 2011, *R. Heylen et al*.
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5887410)] [[Code](https://sites.google.com/site/robheylenresearch/code/simplex_project.m?attredirects=0&d=1)]
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5887410)] [[Code](https://web.archive.org/web/20221207130159/https://sites.google.com/site/robheylenresearch/code)]
 8. **A distance geometric framework for nonlinear hyperspectral unmixing.** JSTARS 2014, *R. Heylen et al*.
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6814294)] [[Code](https://sites.google.com/site/robheylenresearch/code/simplex_project_dist.m?attredirects=0&d=1)]
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6814294)] [[Code](https://web.archive.org/web/20221207130159/https://sites.google.com/site/robheylenresearch/code)]
 
 <a name="network" />
 
